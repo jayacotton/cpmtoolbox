@@ -23,6 +23,8 @@ sieve.c     SIEVE will calculate about 1900 primes.  This can be used to compute
 tail.c      TAIL will print the last lines of a source file.
 wc.c        WC will compute the number of words/lines, and characters in a file.
 xc.c        XC will create a cross referance listing of a C program.
+sort.c      SORT is not ready yet.
+uniq.c      UNIQ is not ready yet.
 
 Libraries and headers used by the builds.
 
